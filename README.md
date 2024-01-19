@@ -1,0 +1,1 @@
+This project utilizes logistic regression and random forest algorithms to classify mobile prices based on a dataset. The dataset includes relevant features such as RAM, battery capacity, camera specifications, etc. Logistic regression offers a linear model, while random forest leverages an ensemble approach for improved accuracy.
